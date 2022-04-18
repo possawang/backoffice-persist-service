@@ -15,6 +15,6 @@ require (
 	github.com/jinzhu/inflection v1.0.0 // indirect
 	github.com/jinzhu/now v1.1.5 // indirect
 	github.com/joho/godotenv v1.4.0 // indirect
-	github.com/possawang/go-service-lib-common v1.0.1 // indirect
+	github.com/possawang/go-service-lib-common v1.0.1
 	gorm.io/driver/mysql v1.3.3 // indirect
 )
