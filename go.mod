@@ -3,7 +3,7 @@ module github.com/possawang/backoffice-persist-service
 go 1.18
 
 require (
-	github.com/possawang/go-persist-lib-common v0.0.7
+	github.com/possawang/go-persist-lib-common v0.0.8
 	gorm.io/gorm v1.23.4 // indirect
 )
 
